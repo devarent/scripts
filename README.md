@@ -32,7 +32,7 @@ scripts/
 ## Getting Started
 
 `ash
-git clone https://github.com/aryafatthurahman4-collab/scripts.git
+git clone https://github.com/devarent/scripts.git
 cd scripts
 `
 
@@ -51,7 +51,7 @@ Proyek ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE).
 
 **Arya Fatthurahman** - AI Engineering, Software, Data & Cloud - Jakarta, Indonesia
 
-[GitHub](https://github.com/aryafatthurahman4-collab)
+[GitHub](https://github.com/devarent)
 
 ---
 
@@ -62,7 +62,7 @@ Proyek ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE).
 
 ## Project Governance
 
-[![CI](https://github.com/aryafatthurahman4-collab/scripts/actions/workflows/ci.yml/badge.svg)](https://github.com/aryafatthurahman4-collab/scripts/actions/workflows/ci.yml)
+[![CI](https://github.com/devarent/scripts/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/scripts/actions/workflows/ci.yml)
 
 [Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
 
